@@ -1,4 +1,5 @@
-# react-native-livephoto Library for working with Apple LivePhoto
+# react-native-livephoto
+# Library for working with Apple LivePhoto
 
 ![GitHub stars](https://img.shields.io/github/stars/NarekChang/react-native-livephoto.svg)
 ![GitHub forks](https://img.shields.io/github/forks/NarekChang/react-native-livephoto.svg)
