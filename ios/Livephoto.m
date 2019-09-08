@@ -1,6 +1,5 @@
 #import "Livephoto.h"
 
-
 @implementation Livephoto
 
 RCT_EXPORT_MODULE()
