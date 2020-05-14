@@ -2,7 +2,7 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/NarekChang/react-native-livephoto.svg)
 ![GitHub forks](https://img.shields.io/github/forks/NarekChang/react-native-livephoto.svg)
-![npm version]((https://img.shields.io/github/npm/NarekChang/react-native-livephoto.svg)
+![npm version](https://img.shields.io/github/npm/NarekChang/react-native-livephoto.svg)
 
 `Apple LivePhotos are working only on IOS devices.`
 
