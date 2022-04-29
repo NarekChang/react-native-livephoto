@@ -776,8 +776,8 @@ async-limiter@~1.0.0:
   resolved "https://registry.yarnpkg.com/async-limiter/-/async-limiter-1.0.1.tgz#dd379e94f0db8310b08291f9d64c3209766617fd"
 
 async@^2.4.0:
-  version "2.6.3"
-  resolved "https://registry.yarnpkg.com/async/-/async-2.6.3.tgz#d72625e2344a3656e3a3ad4fa749fa83299d82ff"
+  version "2.6.4"
+  resolved "https://registry.yarnpkg.com/async/-/async-2.6.4.tgz#706b7ff6084664cd7eae713f6f965433b5504221"
   dependencies:
     lodash "^4.17.14"
 
@@ -830,6 +830,10 @@ babel-preset-fbjs@^3.0.1, babel-preset-fbjs@^3.2.0:
 balanced-match@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/balanced-match/-/balanced-match-1.0.0.tgz#89b4d199ab2bee49de164ea02b89ce462d71b767"
+
+base-64@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/base-64/-/base-64-0.1.0.tgz#780a99c84e7d600260361511c4877613bf24f6bb"
 
 base64-js@^1.1.2, base64-js@^1.2.3:
   version "1.3.1"
@@ -2103,8 +2107,8 @@ lodash.throttle@^4.1.1:
   resolved "https://registry.yarnpkg.com/lodash.throttle/-/lodash.throttle-4.1.1.tgz#c23e91b710242ac70c37f1e1cda9274cc39bf2f4"
 
 lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.5, lodash@^4.3.0, lodash@^4.6.1:
-  version "4.17.15"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
 
 loose-envify@^1.0.0, loose-envify@^1.1.0, loose-envify@^1.3.1, loose-envify@^1.4.0:
   version "1.4.0"
@@ -3010,6 +3014,13 @@ react-is@^16.8.1:
   version "16.9.0"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.9.0.tgz#21ca9561399aad0ff1a7701c01683e8ca981edcb"
 
+react-native-fs@^2.13.3:
+  version "2.19.0"
+  resolved "https://registry.yarnpkg.com/react-native-fs/-/react-native-fs-2.19.0.tgz#5747eb52a5a3d2b31c8fb76f5f8044d0a855122c"
+  dependencies:
+    base-64 "^0.1.0"
+    utf8 "^3.0.0"
+
 react-native@^0.59.10:
   version "0.59.10"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.59.10.tgz#352f381e382f93a0403be499c9e384bf51c2591c"
@@ -3707,6 +3718,10 @@ urix@^0.1.0:
 use@^3.1.0:
   version "3.1.1"
   resolved "https://registry.yarnpkg.com/use/-/use-3.1.1.tgz#d50c8cac79a19fbc20f2911f56eb973f4e10070f"
+
+utf8@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/utf8/-/utf8-3.0.0.tgz#f052eed1364d696e769ef058b183df88c87f69d1"
 
 util-deprecate@~1.0.1:
   version "1.0.2"
